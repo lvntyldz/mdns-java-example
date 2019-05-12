@@ -1,0 +1,11 @@
+# directories
+target/
+.idea/
+.settings/
+.scannerwork/
+
+# files
+.classpath
+.project
+.DS_Store
+*.iml
